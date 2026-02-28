@@ -11,7 +11,10 @@
 Computer Information Systems student focused on becoming a strong full-stack engineer.  
 Currently sharpening problem-solving skills through daily DSA practice while building real-world MERN applications.
 
-Focused on writing clean, maintainable, and scalable code.
+I value:
+- Clean architecture
+- Scalable backend systems
+- Strong problem-solving fundamentals
 
 ---
 
@@ -49,11 +52,21 @@ Focused on writing clean, maintainable, and scalable code.
 
 (Pinned repositories reflect current active work.)
 
----## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smitraika2002&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=smitraika2002&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitraika2002&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitraika2002&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/smitraika2002/smitraika2002/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
 
 ## 🌍 Connect
 
