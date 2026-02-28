@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋 I'm Smit
 
-<!--
-**smitraika2002/smitraika2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Engineer  
+🎯 Goal: Crack Internship 2026  
+🧠 Currently Learning: DSA, MERN Stack, System Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### 🚀 Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
+
+### ⚙️ Backend
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,python)
+
+### 🗄️ Database
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+
+### 🛠️ DevOps & Tools
+![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux,vercel)
+
+---
+
+## 📈 Current Focus
+
+- 🔥 Solving DSA daily (Interview Prep)
+- 🧠 Strengthening Data Structures & Algorithms
+- 🏗️ Building Full-Stack MERN Projects
+- ⚡ Learning scalable backend architecture
+
+---
+
+## 🏆 2026 Internship Preparation
+
+- 📚 100+ DSA Problems Target
+- 💻 Production-level MERN Projects
+- 🧠 System Design Fundamentals
+- 📦 Clean Git & GitHub Workflow
+
+---
+
+## 🌍 Connect With Me
+
+💼 LinkedIn: (https://www.linkedin.com/in/smitraika/)
+🌐 Portfolio: (In Progress )  
+📧 Email: smitraika2002@gmail.com
+
+---
+
+> Consistency > Motivation  
+> Discipline > Talent  
