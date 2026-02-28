@@ -20,7 +20,7 @@ Focused on writing clean, maintainable, and scalable code.
 - 📚 Problems Solved: 0 (Started Feb 2026)
 - 📌 Current Topic: Arrays
 - 🎯 Target: 150+ curated problems
-- 📂 Repo: [DSA 2026 Prep](https://github.com/YOURUSERNAME/dsa-2026-prep)
+- 📂 Repo: [DSA 2026 Prep] (https://github.com/smitraika2002/dsa-2026-prep)
 
 ---
 
