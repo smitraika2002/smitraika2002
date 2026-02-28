@@ -1,52 +1,70 @@
-# Hi 👋 I'm Smit
+# Hi 👋 I'm Smit Raika Magar
 
-🚀 Aspiring Full Stack Engineer  
-🎯 Goal: Crack Internship 2026  
-🧠 Currently Learning: DSA, MERN Stack, System Design  
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
-
-### ⚙️ Backend
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,python)
-
-### 🗄️ Database
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
-
-### 🛠️ DevOps & Tools
-![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux,vercel)
+🚀 Full Stack Developer (MERN)  
+🎯 Target: Software Engineering Internship 2026  
+🧠 Currently Focused On: Data Structures & Algorithms, System Design, Scalable Web Apps  
 
 ---
 
-## 📈 Current Focus
+## 🚀 About Me
 
-- 🔥 Solving DSA daily (Interview Prep)
-- 🧠 Strengthening Data Structures & Algorithms
-- 🏗️ Building Full-Stack MERN Projects
-- ⚡ Learning scalable backend architecture
+Computer Information Systems student focused on becoming a strong full-stack engineer.  
+Currently sharpening problem-solving skills through daily DSA practice while building real-world MERN applications.
 
----
-
-## 🏆 2026 Internship Preparation
-
-- 📚 100+ DSA Problems Target
-- 💻 Production-level MERN Projects
-- 🧠 System Design Fundamentals
-- 📦 Clean Git & GitHub Workflow
+Focused on writing clean, maintainable, and scalable code.
 
 ---
 
-## 🌍 Connect With Me
+## 🧠 DSA Journey (2026 Internship Prep)
 
-💼 **LinkedIn:** [smitraika](https://www.linkedin.com/in/smitraika/)  
-🌐 **Portfolio:** Coming Soon 🚧  
-📧 **Email:** smitraika2002@gmail.com
+- 📚 Problems Solved: 0 (Started Feb 2026)
+- 📌 Current Topic: Arrays
+- 🎯 Target: 150+ curated problems
+- 📂 Repo: [DSA 2026 Prep](https://github.com/YOURUSERNAME/dsa-2026-prep)
 
 ---
 
-> Consistency > Motivation  
-> Discipline > Talent  
+## 🛠 Tech Stack
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### Database
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+
+### DevOps & Tools
+![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,vercel)
+
+---
+
+## 🚧 Working Projects
+
+- 🔹 **CourseScope** – MERN-based course review platform (Authentication, RBAC, REST APIs)
+- 🔹 **Expense Tracker API** – Node.js + MongoDB backend with JWT auth & validation
+- 🔹 **Project Camp** – Task & subtask management system with role-based access
+- 🔹 **DSA 2026 Prep** – Structured algorithm practice repository
+
+(Pinned repositories reflect current active work.)
+
+---
+
+## 📊 GitHub Stats
+
+![Smit's GitHub stats](https://github-readme-stats.vercel.app/api?username=smitraika002&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitraika002&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/smitraika/  
+📧 Email: smitraika2002@gmail.com  
+🌐 Portfolio: Coming Soon  
+
+---
+
+> Building skills daily. Internship 2026 is the target.
