@@ -42,7 +42,7 @@
 
 ## 🌍 Connect With Me
 
-💼 LinkedIn: (https://www.linkedin.com/in/smitraika/)
+💼 LinkedIn: (https://www.linkedin.com/in/smitraika/) 
 🌐 Portfolio: (In Progress )  
 📧 Email: smitraika2002@gmail.com
 
