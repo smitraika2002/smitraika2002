@@ -49,13 +49,11 @@ Focused on writing clean, maintainable, and scalable code.
 
 (Pinned repositories reflect current active work.)
 
----
+---## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smitraika2002&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smitraika2002&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitraika2002&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=smitraika2002&layout=compact&theme=tokyonight)
 
 ## 🌍 Connect
 
