@@ -78,5 +78,5 @@ I value:
 
 > Building skills daily. Internship 2026 is the target.
 
-![snake gif](https://github.com/smitraika2002/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/smitraika2002/smitraika2002/blob/output/github-snake-dark.svg)
 
