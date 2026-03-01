@@ -54,8 +54,6 @@ I value:
 - 🔹 **Project Camp** – Task & subtask management system with role-based access
 - 🔹 **DSA 2026 Prep** – Structured algorithm practice repository
 
-(Pinned repositories reflect current active work.)
-
 ---
 
 ## 🐍 Contribution Snake
@@ -73,6 +71,3 @@ I value:
 ---
 
 > Building skills daily. Internship 2026 is the target.
-
-![snake gif](https://github.com/smitraika2002/smitraika2002/blob/output/github-snake-dark.svg)
-
