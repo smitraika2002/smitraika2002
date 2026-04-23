@@ -1,2 +1,2 @@
-
-https://github.com/smitraika2002/smitraika2002/blob/main/Smit_Resume.pdf
+## 📄 Resume
+[Download My Resume](https://github.com/smitraika2002/smitraika2002/raw/main/Smit_Resume.pdf)
