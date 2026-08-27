@@ -1,34 +1,42 @@
+<div align="center">
+
 # 👋 Hi, I'm Smit Raika Magar
 
-💻 Full Stack Developer (MERN)  
-🤖 Building AI-powered web applications  
-🚀 Focused on real-time systems & scalable apps  
+### Computer Information Systems Student | Full-Stack • Cloud • AI/ML
+
+📍 Omaha, Nebraska &nbsp; • &nbsp; 🎓 Bellevue University &nbsp; • &nbsp; 🎯 Expected 2027
+
+</div>
 
 ---
 
-## 📄 Resume
-👉 [Download My Resume](https://github.com/smitraika2002/smitraika2002/raw/main/Smit_Resume.pdf)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Resume Analyzer
-- AI-powered ATS scoring & resume feedback
-- Built with React, Node.js, Groq (LLaMA 3)
-
-### 🎤 AI Coding Interview Simulator
-- Real-time AI interviewer using WebSockets
-- Automated scoring + feedback system
-
-### 📹 WebRTC Video Chat App
-- Peer-to-peer real-time video communication
-- WebRTC + Socket.io signaling
-
----
-
-## 🛠 Tech Stack
-JavaScript | TypeScript | React | Node.js | MongoDB | Prisma  
-WebRTC | Socket.io | AWS | Firebase | Docker  
-
----
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│      ███████╗███╗   ███╗██╗████████╗       smitraika2002@smit           │
+│      ██╔════╝████╗ ████║██║╚══██╔══╝       ───────────────────────      │
+│      ███████╗██╔████╔██║██║   ██║                                      │
+│      ╚════██║██║╚██╔╝██║██║   ██║          Education ... CIS @ Bellevue │
+│      ███████║██║ ╚═╝ ██║██║   ██║          Graduation .. 2027           │
+│      ╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝          Location .... Omaha, NE      │
+│                                                                          │
+│                                               Languages                  │
+│                                               ─────────                  │
+│                                               Python                     │
+│                                               JavaScript                 │
+│                                               TypeScript                 │
+│                                               SQL                        │
+│                                                                          │
+│      Cloud ............. AWS                 Frontend                    │
+│      Backend ........... Node.js             React • Next.js             │
+│      AI/ML ............. PyTorch             Redux • Tailwind CSS        │
+│      Database .......... PostgreSQL                                      │
+│      DevOps ............ Docker              Currently Building          │
+│                                               ─────────────────          │
+│      Interests                                Full-Stack Apps             │
+│      ─────────                                Cloud Systems               │
+│      Cloud Computing                          AI/ML Applications          │
+│      Full-Stack Development                                               │
+│      Artificial Intelligence                                              │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
